@@ -1,0 +1,514 @@
+1
+112
+1 1
+RED
+1 2
+WHITE
+1 3
+BLUE
+1 4
+WHITE
+1 5
+GREEN
+1 6
+WHITE
+1 7
+YELLOW
+1 8
+WHITE
+1 9
+WHITE
+1 10
+YELLOW
+1 11
+WHITE
+1 12
+GREEN
+1 13
+WHITE
+1 14
+BLUE
+1 15
+WHITE
+1 16
+RED
+2 1
+BLACK
+2 2
+YELLOW
+2 3
+WHITE
+2 4
+WHITE
+2 5
+WHITE
+2 6
+BLACK
+2 7
+WHITE
+2 8
+WHITE
+2 9
+WHITE
+2 10
+WHITE
+2 11
+BLACK
+2 12
+WHITE
+2 13
+WHITE
+2 14
+WHITE
+2 15
+GREEN
+2 16
+BLACK
+3 1
+BLUE
+3 2
+WHITE
+3 3
+WHITE
+3 4
+GREEN
+3 5
+WHITE
+3 6
+YELLOW
+3 7
+WHITE
+3 8
+RED
+3 9
+RED
+3 10
+WHITE
+3 11
+YELLOW
+3 12
+WHITE
+3 13
+GREEN
+3 14
+WHITE
+3 15
+WHITE
+3 16
+BLUE
+4 1
+BLACK
+4 2
+WHITE
+4 3
+WHITE
+4 4
+BLACK
+4 5
+WHITE
+4 6
+WHITE
+4 7
+WHITE
+4 8
+WHITE
+4 9
+WHITE
+4 10
+WHITE
+4 11
+WHITE
+4 12
+WHITE
+4 13
+BLACK
+4 14
+WHITE
+4 15
+WHITE
+4 16
+BLACK
+5 1
+GREEN
+5 2
+WHITE
+5 3
+WHITE
+5 4
+YELLOW
+5 5
+WHITE
+5 6
+RED
+5 7
+WHITE
+5 8
+BLUE
+5 9
+BLUE
+5 10
+WHITE
+5 11
+RED
+5 12
+WHITE
+5 13
+YELLOW
+5 14
+WHITE
+5 15
+WHITE
+5 16
+GREEN
+6 1
+BLACK
+6 2
+RED
+6 3
+WHITE
+6 4
+WHITE
+6 5
+WHITE
+6 6
+BLACK
+6 7
+WHITE
+6 8
+WHITE
+6 9
+WHITE
+6 10
+WHITE
+6 11
+BLACK
+6 12
+WHITE
+6 13
+WHITE
+6 14
+WHITE
+6 15
+BLUE
+6 16
+BLACK
+7 1
+YELLOW
+7 2
+WHITE
+7 3
+RED
+7 4
+WHITE
+7 5
+BLUE
+7 6
+WHITE
+7 7
+GREEN
+7 8
+WHITE
+7 9
+WHITE
+7 10
+GREEN
+7 11
+WHITE
+7 12
+BLUE
+7 13
+WHITE
+7 14
+RED
+7 15
+WHITE
+7 16
+YELLOW
+12
+2 3
+6 3
+RED
+6 5
+6 12
+BLACK
+6 14
+2 14
+BLUE
+2 12
+2 12
+GREEN
+1 3
+1 3
+GREEN
+1 14
+2 13
+BLUE
+3 5
+3 5
+GREEN
+3 12
+2 13
+BLUE
+5 5
+6 4
+BLACK
+5 12
+6 13
+BLACK
+7 7
+6 4
+BLACK
+7 10
+6 13
+RED
+92
+1 2
+2 2
+2 2
+1 2
+1 4
+2 4
+2 4
+1 4
+1 6
+2 6
+2 6
+1 6
+2 2
+3 2
+3 2
+2 2
+2 4
+3 4
+3 4
+2 4
+2 6
+3 6
+3 6
+2 6
+3 2
+4 2
+4 2
+3 2
+3 4
+4 4
+4 4
+3 4
+3 6
+4 6
+4 6
+3 6
+4 2
+5 2
+5 2
+4 2
+4 4
+5 4
+5 4
+4 4
+4 6
+5 6
+5 6
+4 6
+5 2
+6 2
+6 2
+5 2
+5 4
+6 4
+6 4
+5 4
+5 6
+6 6
+6 6
+5 6
+6 2
+7 2
+7 2
+6 2
+6 4
+7 4
+7 4
+6 4
+6 6
+7 6
+7 6
+6 6
+1 11
+2 11
+2 11
+1 11
+1 13
+2 13
+2 13
+1 13
+1 15
+2 15
+2 15
+1 15
+2 11
+3 11
+3 11
+2 11
+2 13
+3 13
+3 13
+2 13
+2 15
+3 15
+3 15
+2 15
+3 11
+4 11
+4 11
+3 11
+3 13
+4 13
+4 13
+3 13
+3 15
+4 15
+4 15
+3 15
+4 11
+5 11
+5 11
+4 11
+4 13
+5 13
+5 13
+4 13
+4 15
+5 15
+5 15
+4 15
+5 11
+6 11
+6 11
+5 11
+5 13
+6 13
+6 13
+5 13
+5 15
+6 15
+6 15
+5 15
+6 11
+7 11
+7 11
+6 11
+6 13
+7 13
+7 13
+6 13
+6 15
+7 15
+7 15
+6 15
+1 8
+1 9
+1 9
+1 8
+3 8
+3 9
+3 9
+3 8
+5 8
+5 9
+5 9
+5 8
+7 8
+7 9
+7 9
+7 8
+2 7
+2 8
+2 8
+2 7
+4 7
+4 8
+4 8
+4 7
+6 7
+6 8
+6 8
+6 7
+2 9
+2 10
+2 10
+2 9
+4 9
+4 10
+4 10
+4 9
+6 9
+6 10
+6 10
+6 9
+13
+1 7 -5 6 2
+1 10 -5 6 2
+2 2 20 0 0
+2 15 20 0 0
+3 8 -5 6 2
+3 9 -5 6 2
+5 8 -5 6 2
+5 9 -5 6 2
+6 2 20 0 0
+6 15 20 0 0
+7 2 -5 6 2
+7 7 -5 6 2
+7 10 -5 6 2
+a
+0
+0
+1
+4
+1 1
+RED
+false
+false
+3 1
+BLUE
+false
+false
+5 1
+GREEN
+false
+false
+7 1
+YELLOW
+false
+false
+false
+1 1 2 1 3 1 4 1 5 1 6 1 
+false
+true
+0
+b
+0
+0
+2
+4
+1 16
+RED
+false
+false
+3 16
+BLUE
+false
+false
+5 16
+GREEN
+false
+false
+7 16
+YELLOW
+false
+false
+false
+1 1 2 1 3 1 4 1 5 1 6 1 
+false
+true
+0
